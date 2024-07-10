@@ -1,0 +1,52 @@
+{
+  "name": "card",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@heroicons/react": "^2.0.18",
+    "@lottiefiles/react-lottie-player": "^3.5.3",
+    "@mui/material": "^5.15.20",
+    "@react-three/drei": "^9.90.2",
+    "@react-three/fiber": "^8.12.0",
+    "@types/three": "^0.150.0",
+    "axios": "^1.7.2",
+    "formidable": "^3.5.1",
+    "framer-motion": "^10.9.2",
+    "fs": "^0.0.1-security",
+    "gray-matter": "^4.0.3",
+    "markdown-to-jsx": "^7.4.7",
+    "multer": "^1.4.5-lts.1",
+    "next": "13.5.6",
+    "next-connect": "^1.0.0",
+    "node-fetch": "^3.3.2",
+    "nspell": "^2.1.5",
+    "qs": "^6.12.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-quill": "^2.0.0",
+    "shadergradient": "^1.2.4",
+    "simple-git": "^3.25.0",
+    "three": "^0.150.1",
+    "three-stdlib": "^2.28.7"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/nspell": "^2.1.6",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10",
+    "eslint": "^8",
+    "eslint-config-next": "13.5.6",
+    "postcss": "^8",
+    "tailwindcss": "^3",
+    "typescript": "^5"
+  }
+}
